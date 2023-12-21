@@ -1,2 +1,2 @@
 # lista-tarefas
-Lista de tarefas com javascript e json-server
+Lista de tarefas com JavaScript e JSON Server
